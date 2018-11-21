@@ -1,0 +1,19 @@
+{
+  "manifest_version": "2",
+  "api_version": "1",
+  "name": "DigitalOcean",
+  "description": "Ulauncher extension that provides quick access to your DigitalOcean account",
+  "developer_name": "Bruno Paz",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "kw",
+      "type": "keyword",
+      "name": "DigitalOcean",
+      "default_value": "do"
+    }
+  ]
+}
