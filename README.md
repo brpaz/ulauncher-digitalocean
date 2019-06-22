@@ -8,7 +8,7 @@
 
 ## Demo
 
-![demo](demo.gif)
+![image](screenshot.png)
 
 ## Requirements
 
